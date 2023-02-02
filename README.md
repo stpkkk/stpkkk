@@ -1,4 +1,4 @@
-[![Header](./bg.jpg)](https://www.linkedin.com/in/igor-stepanov1)
+[![Header](./bg.jpeg)](https://www.linkedin.com/in/igor-stepanov1)
 
 ## Hello, I'm Stepanov Igor
 
