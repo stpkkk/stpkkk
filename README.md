@@ -1,10 +1,7 @@
 [![Header](./bg.jpeg)](https://www.linkedin.com/in/igor-stepanov1)
 
-## Hello, I'm Stepanov Igor
 
-## I'm a Frontend React developer
-
-### Languages and Tools:
+### My stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=CC0000)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
