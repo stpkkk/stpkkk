@@ -1,4 +1,4 @@
-[![Header](./bg.jpeg)](https://www.linkedin.com/in/igor-stepanov1)
+[![Header](./bg.png)](https://www.linkedin.com/in/igor-stepanov1)
 
 
 ### My stack:
