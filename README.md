@@ -1,7 +1,7 @@
 [![Header](./bg.png)](https://www.linkedin.com/in/igor-stepanov1)
 
 
-### My stack:
+### What i'm work with:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=CC0000)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
@@ -12,7 +12,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=097CDB)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=CC0000)
 
-### Follow Me:
+### Get in touch:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/stpkk)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](www.linkedin.com/in/igor-stepanov1)
