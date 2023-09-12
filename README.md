@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stpkkk&label=Profile%20views&color=0e75b6&style=flat" alt="stpkkk" /> </p>
 
-- 🔭 I’m currently looking for **job and new opportunities**
+- 🔭 I’m currently looking for **job and new suggestions**
 
 - 👨‍💻 All of my projects are available at [https://next-js-stpkkk-portfolio-git-ru-igorstepanov.vercel.app/](https://next-js-stpkkk-portfolio-git-ru-igorstepanov.vercel.app/)
 
