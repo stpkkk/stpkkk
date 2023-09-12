@@ -1,4 +1,4 @@
-![MasterHead](./my-gif2.gif)
+<img  align="center" width="100%" src="./my-gif2.gif"/>
 <h1 align="center">Hi 👋, I'm Stepanov Igor</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="hero" width="200" src="./hero.png"/>
