@@ -30,7 +30,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images%2Fjun17114%2Fpost%2F3d5670a1-9d9d-479b-8025-3d0d4769c0e5%2Fsc.png" alt="styled-components" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://velog.velcdn.com/images/ahn0min/post/97a5547b-6763-4f78-839d-1afaf1731dae/image.png" width="40" height="40"/> </a> 
+<a href="https://tanstack.com" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/Kqxbl5Q.png" alt="tanstack-query" width="40" height="40"/> </a>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
